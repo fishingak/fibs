@@ -2,7 +2,7 @@
 
 
 
-nterms = 10
+nterms = 20
 n1 = 0
 n2 = 1
 count = 0
